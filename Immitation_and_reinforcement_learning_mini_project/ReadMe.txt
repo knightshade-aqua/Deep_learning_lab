@@ -1,0 +1,2 @@
+1. I also included a video of an agent with only balancing which I impleneted in this assignment but was later unable to replicate it.##Trying to upload without it
+2. There maybe changes in the test programmes as the training was done on Google Colab
